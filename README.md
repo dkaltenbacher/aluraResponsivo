@@ -1,2 +1,2 @@
-# projeto Alura Responsio
-Pagiga web responsiva
+# projeto Alura Responsivo
+Pagina web responsiva
